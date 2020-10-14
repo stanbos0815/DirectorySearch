@@ -1,0 +1,7 @@
+;Das Skript sucht Zeilenweise nach jedem Namen, der in diesem File steht
+;Zeilen mit vorangestelltem ; werden nicht beachtet.
+;Das Skript sucht ab dem Ordner in dem es ausgeführt wird und durchsucht dabei
+;auch alle Unterordner. Die Ergebnisse werden in found.html und notfound.html gespeichert
+;Nachfolgend zwei Beispiele:
+test
+pdf
