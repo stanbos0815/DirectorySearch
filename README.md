@@ -5,7 +5,7 @@ Gesucht werden alle Files, deren Dateiname Zeichen oder Zeichenketten enthält, 
 Die Ergebnisse werden in found.html und notfound.html abgespeichert.
 Zeilen können in input.txt mit vorangestelltem ; auskommentiert werden. Nach diesen Zeilen wird dann nicht gesucht.
 
-Alle Dateien aus diesem Repository müssen in dem Ordner, ab dem gesucht werden soll, liegen.
+Alle Dateien aus dem search Ordner müssen in dem Ordner, ab dem gesucht werden soll, liegen. D.h. input.txt, found.html, notfound.html und search.bat
 
 WARNUNG: Bei jedem ausführen des Skriptes werden found.html und notfound.html überschrieben!
 
