@@ -27,9 +27,9 @@ oder<br>
 .pdf<br>
 pdf<br>
 suchtext<br>
-...<br>
-<br>
-Zeilen, nach denen nicht gesucht werden soll, können mit führendem ";" auskommentiert werden:<br>
+...<br><br>
+
+3. Zeilen, nach denen nicht gesucht werden soll, können mit führendem ";" auskommentiert werden:<br>
 ...<br>
 ;Dokumentenliste Teil 3:<br>
 423.pdf<br>
@@ -37,8 +37,8 @@ xyz.pdf<br>
 test.pdf<br>
 ...<br><br>
 
-3. Datei "input.txt" speichern.<br>
-4. Datei "search.bat" ausführen.
+4. Datei "input.txt" speichern.<br>
+5. Datei "search.bat" ausführen.
 
 In der Kommandozeile kann nun verfolgt werden, wie die einzelnen Dateien gesucht werden.
 Am Ende wird eine Statistik ausgegeben.
