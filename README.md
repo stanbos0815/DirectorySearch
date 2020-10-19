@@ -16,28 +16,28 @@ Es empfiehlt sich found.html und notfound.html mit Chrome, Firefox oder Edge zu 
 1. Dateien "search.bat", "input.txt", "found.hmtl" und "notfound.html" in das zu durchsuchendes Verzeichnis kopieren.
 
 2. In der Textdatei "input.txt" müssen alle zu suchenden Dateien Zeilenweise eingefügt werden.
-Beispiel:
-...
-beispiel.png
-test.txt
-irgendeineiDatei.jpg
-...
-oder
-...
-.pdf
-pdf
-suchtext
-...
+Beispiel:<br>
+...<br>
+beispiel.png<br>
+test.txt<br>
+irgendeineiDatei.jpg<br>
+...<br>
+oder<br>
+...<br>
+.pdf<br>
+pdf<br>
+suchtext<br>
+...<br>
+<br>
+Zeilen, nach denen nicht gesucht werden soll, können mit führendem ";" auskommentiert werden:<br>
+...<br>
+;Dokumentenliste Teil 3:<br>
+423.pdf<br>
+xyz.pdf<br>
+test.pdf<br>
+...<br><br>
 
-Zeilen, nach denen nicht gesucht werden soll, können mit führendem ";" auskommentiert werden:
-...
-;Dokumentenliste Teil 3:
-423.pdf
-xyz.pdf
-test.pdf
-...
-
-3. Datei "input.txt" speichern.
+3. Datei "input.txt" speichern.<br>
 4. Datei "search.bat" ausführen.
 
 In der Kommandozeile kann nun verfolgt werden, wie die einzelnen Dateien gesucht werden.
